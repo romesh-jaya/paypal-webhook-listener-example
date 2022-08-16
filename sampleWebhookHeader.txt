@@ -1,0 +1,5 @@
+paypal-transmission-id:cc0a0330-1c90-11ed-995c-1de2ab4eee59
+paypal-transmission-time:2022-08-15T11:52:54Z
+paypal-cert-url:https://api.sandbox.paypal.com/v1/notifications/certs/CERT-360caa42-fca2a594-5a29e601
+paypal-auth-algo:SHA256withRSA
+paypal-transmission-sig:b8sLA2fwVI18fPUkazs5FWauL1fNW/szfvg1jdK7G7OvsERsCADp4A/x+MgVr+TK8/j/3Z8mTMRpRUaoePtFkv5NhDJaBodx+0zivsySdHMSKAqBJCUJvwW7Uj3BCb+YLm5AnA2iNlC4V5q897hF9V12tSjr20cu7AlyNBSdTEE4mi6P4otIthrhhiYaSF3PPEXBIy+oc4nUwOIZTuU8RDVxmjPv1kxiB2biebifetIFSboCipF3qHCZXgnAUGPm980KKvzD4xIspXMyweBE744cCxLXNjoYat8PfcGEsuri37BnaFfgYmG4rNQOq/lmyhk7yDqWAHKib/o7NkC8pg==
